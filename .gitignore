@@ -5,10 +5,10 @@ sites/*/settings*.php
 sites/*/files
 sites/*/private
 
-
 # ignore everything in the root except the "wp-content" directory.
 /*
 !sites/
+sites/default/settings.php
 
 # ignore all files starting with .
 .*
